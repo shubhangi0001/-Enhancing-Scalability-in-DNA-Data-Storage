@@ -123,8 +123,8 @@ jupyter notebook
 ## 👨‍💼 Authors
 
 * [Shubhangi Goswami](https://github.com/shubhangi0001)
-* Devarshi Kashiwala
-* Het Patel
+* [Devarshi Kashiwala](https://github.com/Devarshik3)
+* [Het Patel](https://github.com/HetPatel1978)
 * Prof. Sanjay Prajapati (Mentor)
 
 ---
